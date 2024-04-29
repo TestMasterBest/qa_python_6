@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+pytest==7.3.0
+selenium==4.9.0

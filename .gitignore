@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+/.idea/
+/allure_results/*
+/venv/
+/geckodriver.log
