@@ -24,3 +24,8 @@ class BasePage:
     @allure.step('Получить текущий URL')
     def current_url(self):
         return self.driver.current_url
+
+    # Переключиться на определенное окно
+    def switchwindow(self, windownumber: int = 1):
+        # Пример использования методов из базового класса
+        self.switchwindow(windownumber)
